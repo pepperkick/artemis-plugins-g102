@@ -1,0 +1,8 @@
+{
+  "Guid": "ecfadc92-3f53-4148-ac91-011cb9bd06ae",
+  "Name": "G102",
+  "Icon":  "Mouse",
+  "Description": "This is my awesome plugin",
+  "Version": "1.0.0.0",
+  "Main": "G102.dll"
+}
